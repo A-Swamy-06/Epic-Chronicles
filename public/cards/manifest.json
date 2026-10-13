@@ -1,0 +1,290 @@
+[
+  {
+    "page": 1,
+    "type": "story",
+    "src": "/cards/page-01.jpg",
+    "pairPage": 2
+  },
+  {
+    "page": 2,
+    "type": "reflection",
+    "src": "/cards/page-02.jpg",
+    "pairPage": 1
+  },
+  {
+    "page": 3,
+    "type": "story",
+    "src": "/cards/page-03.jpg",
+    "pairPage": 4
+  },
+  {
+    "page": 4,
+    "type": "reflection",
+    "src": "/cards/page-04.jpg",
+    "pairPage": 3
+  },
+  {
+    "page": 5,
+    "type": "story",
+    "src": "/cards/page-05.jpg",
+    "pairPage": 6
+  },
+  {
+    "page": 6,
+    "type": "reflection",
+    "src": "/cards/page-06.jpg",
+    "pairPage": 5
+  },
+  {
+    "page": 7,
+    "type": "story",
+    "src": "/cards/page-07.jpg",
+    "pairPage": 8
+  },
+  {
+    "page": 8,
+    "type": "reflection",
+    "src": "/cards/page-08.jpg",
+    "pairPage": 7
+  },
+  {
+    "page": 9,
+    "type": "story",
+    "src": "/cards/page-09.jpg",
+    "pairPage": 10
+  },
+  {
+    "page": 10,
+    "type": "reflection",
+    "src": "/cards/page-10.jpg",
+    "pairPage": 9
+  },
+  {
+    "page": 11,
+    "type": "story",
+    "src": "/cards/page-11.jpg",
+    "pairPage": 12
+  },
+  {
+    "page": 12,
+    "type": "reflection",
+    "src": "/cards/page-12.jpg",
+    "pairPage": 11
+  },
+  {
+    "page": 13,
+    "type": "story",
+    "src": "/cards/page-13.jpg",
+    "pairPage": 14
+  },
+  {
+    "page": 14,
+    "type": "reflection",
+    "src": "/cards/page-14.jpg",
+    "pairPage": 13
+  },
+  {
+    "page": 15,
+    "type": "story",
+    "src": "/cards/page-15.jpg",
+    "pairPage": 16
+  },
+  {
+    "page": 16,
+    "type": "reflection",
+    "src": "/cards/page-16.jpg",
+    "pairPage": 15
+  },
+  {
+    "page": 17,
+    "type": "story",
+    "src": "/cards/page-17.jpg",
+    "pairPage": 18
+  },
+  {
+    "page": 18,
+    "type": "reflection",
+    "src": "/cards/page-18.jpg",
+    "pairPage": 17
+  },
+  {
+    "page": 19,
+    "type": "story",
+    "src": "/cards/page-19.jpg",
+    "pairPage": 20
+  },
+  {
+    "page": 20,
+    "type": "reflection",
+    "src": "/cards/page-20.jpg",
+    "pairPage": 19
+  },
+  {
+    "page": 21,
+    "type": "story",
+    "src": "/cards/page-21.jpg",
+    "pairPage": 22
+  },
+  {
+    "page": 22,
+    "type": "reflection",
+    "src": "/cards/page-22.jpg",
+    "pairPage": 21
+  },
+  {
+    "page": 23,
+    "type": "story",
+    "src": "/cards/page-23.jpg",
+    "pairPage": 24
+  },
+  {
+    "page": 24,
+    "type": "reflection",
+    "src": "/cards/page-24.jpg",
+    "pairPage": 23
+  },
+  {
+    "page": 25,
+    "type": "story",
+    "src": "/cards/page-25.jpg",
+    "pairPage": 26
+  },
+  {
+    "page": 26,
+    "type": "reflection",
+    "src": "/cards/page-26.jpg",
+    "pairPage": 25
+  },
+  {
+    "page": 27,
+    "type": "story",
+    "src": "/cards/page-27.jpg",
+    "pairPage": 28
+  },
+  {
+    "page": 28,
+    "type": "reflection",
+    "src": "/cards/page-28.jpg",
+    "pairPage": 27
+  },
+  {
+    "page": 29,
+    "type": "story",
+    "src": "/cards/page-29.jpg",
+    "pairPage": 30
+  },
+  {
+    "page": 30,
+    "type": "reflection",
+    "src": "/cards/page-30.jpg",
+    "pairPage": 29
+  },
+  {
+    "page": 31,
+    "type": "story",
+    "src": "/cards/page-31.jpg",
+    "pairPage": 32
+  },
+  {
+    "page": 32,
+    "type": "reflection",
+    "src": "/cards/page-32.jpg",
+    "pairPage": 31
+  },
+  {
+    "page": 33,
+    "type": "story",
+    "src": "/cards/page-33.jpg",
+    "pairPage": 34
+  },
+  {
+    "page": 34,
+    "type": "reflection",
+    "src": "/cards/page-34.jpg",
+    "pairPage": 33
+  },
+  {
+    "page": 35,
+    "type": "story",
+    "src": "/cards/page-35.jpg",
+    "pairPage": 36
+  },
+  {
+    "page": 36,
+    "type": "reflection",
+    "src": "/cards/page-36.jpg",
+    "pairPage": 35
+  },
+  {
+    "page": 37,
+    "type": "story",
+    "src": "/cards/page-37.jpg",
+    "pairPage": 38
+  },
+  {
+    "page": 38,
+    "type": "reflection",
+    "src": "/cards/page-38.jpg",
+    "pairPage": 37
+  },
+  {
+    "page": 39,
+    "type": "story",
+    "src": "/cards/page-39.jpg",
+    "pairPage": 40
+  },
+  {
+    "page": 40,
+    "type": "reflection",
+    "src": "/cards/page-40.jpg",
+    "pairPage": 39
+  },
+  {
+    "page": 41,
+    "type": "story",
+    "src": "/cards/page-41.jpg",
+    "pairPage": 42
+  },
+  {
+    "page": 42,
+    "type": "reflection",
+    "src": "/cards/page-42.jpg",
+    "pairPage": 41
+  },
+  {
+    "page": 43,
+    "type": "story",
+    "src": "/cards/page-43.jpg",
+    "pairPage": 44
+  },
+  {
+    "page": 44,
+    "type": "reflection",
+    "src": "/cards/page-44.jpg",
+    "pairPage": 43
+  },
+  {
+    "page": 45,
+    "type": "story",
+    "src": "/cards/page-45.jpg",
+    "pairPage": 46
+  },
+  {
+    "page": 46,
+    "type": "reflection",
+    "src": "/cards/page-46.jpg",
+    "pairPage": 45
+  },
+  {
+    "page": 47,
+    "type": "story",
+    "src": "/cards/page-47.jpg",
+    "pairPage": 48
+  },
+  {
+    "page": 48,
+    "type": "reflection",
+    "src": "/cards/page-48.jpg",
+    "pairPage": 47
+  }
+]

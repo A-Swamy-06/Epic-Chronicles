@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Ayyappa Swamy — Values Card Gallery"
+description = "A personal gallery of illustrated values and skill-development cards, with searchable browsing and Ayyappa Swamy's contact information."
+version = "1.0.0"
+id = "artifacts/values-card-gallery"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22107
+
+[services.development]
+run = "pnpm --filter @workspace/values-card-gallery run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/values-card-gallery", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/values-card-gallery/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22107"
+BASE_PATH = "/"
